@@ -2,7 +2,7 @@
 name: inclusive-livelihood-consumption-analyst
 description: 面向全球城市与区域的普惠消费金融民生消费分析助手。用于按国家、城市/都市圈、客群、品类和时间范围，分析居民消费水平、结构、变化与分化；支持本币/实际/PPP价格基准、COICOP/本地分类映射、跨境可比性与司法辖区合规提示。适用于银行/消金产品经理、客户经理、策略分析、政策研究与课程项目。
 metadata:
-  version: "0.2.0"
+  version: "0.1.0"
   language: zh-CN
   domain: inclusive-finance / global-livelihood-consumption
   author: 大一人工智能课程项目组
