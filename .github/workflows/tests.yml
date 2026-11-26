@@ -1,0 +1,49 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Run China calculation assertions
+        run: python scripts/test_analysis.py
+
+      - name: Run global-mode assertions
+        run: python scripts/test_global_analysis.py
+
+      - name: Run chart assertions
+        run: python scripts/test_charts.py
+
+      - name: Run rule coverage checks
+        run: python scripts/test_rule_coverage.py
+
+      - name: Run sample analyses
+        run: |
+          python scripts/analyze_livelihood.py \
+            --input assets/sample_consumption.csv \
+            --outdir /tmp/outputs \
+            --base-year 2024 \
+            --compare-year 2025
+          python scripts/analyze_global.py \
+            --input assets/sample_global_cities.csv \
+            --outdir /tmp/outputs_global \
+            --base-year 2024 \
+            --compare-year 2025
+          python scripts/make_charts.py \
+            --input assets/sample_age_groups.csv \
+            --outdir /tmp/outputs_charts \
+            --city 成都

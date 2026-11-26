@@ -1,0 +1,107 @@
+{
+  "total": 20,
+  "passed": 20,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "每个群体-年份包含八大类",
+      "passed": true,
+      "detail": "min=8, max=8"
+    },
+    {
+      "name": "青年蓝领 2025 总支出 = 26,100",
+      "passed": true,
+      "detail": "26100.0"
+    },
+    {
+      "name": "小微经营者 2025 总支出 = 32,300",
+      "passed": true,
+      "detail": "32300.0"
+    },
+    {
+      "name": "城镇 2025 总支出 = 37,800",
+      "passed": true,
+      "detail": "37800.0"
+    },
+    {
+      "name": "青年蓝领 2025 八大类占比合计 = 100%",
+      "passed": true,
+      "detail": "1.00000000"
+    },
+    {
+      "name": "青年蓝领 2025 食品占比 ≈ 30.8%",
+      "passed": true,
+      "detail": "0.308008"
+    },
+    {
+      "name": "青年蓝领 2025 居住占比 ≈ 26.4%",
+      "passed": true,
+      "detail": "0.263985"
+    },
+    {
+      "name": "青年蓝领 2025 刚性支出 ≈ 57.2%",
+      "passed": true,
+      "detail": "0.571992"
+    },
+    {
+      "name": "青年蓝领 2025 发展型支出 ≈ 31.9%",
+      "passed": true,
+      "detail": "0.319042"
+    },
+    {
+      "name": "青年蓝领 2025 总增速 ≈ 5.24%",
+      "passed": true,
+      "detail": "0.052419"
+    },
+    {
+      "name": "教育文化娱乐增速 ≈ 13.44%",
+      "passed": true,
+      "detail": "0.134409"
+    },
+    {
+      "name": "交通通信增速 ≈ 8.76%",
+      "passed": true,
+      "detail": "0.087634"
+    },
+    {
+      "name": "食品烟酒增速 ≈ 4.57%",
+      "passed": true,
+      "detail": "0.045656"
+    },
+    {
+      "name": "居住增速 ≈ 2.90%",
+      "passed": true,
+      "detail": "0.028973"
+    },
+    {
+      "name": "小微经营者 2025 刚性支出 ≈ 52.3%",
+      "passed": true,
+      "detail": "0.523003"
+    },
+    {
+      "name": "城镇 2025 刚性支出 ≈ 50.7%",
+      "passed": true,
+      "detail": "0.507011"
+    },
+    {
+      "name": "青年蓝领与城镇刚性支出差 ≈ 6.5pct",
+      "passed": true,
+      "detail": "6.498176"
+    },
+    {
+      "name": "青年蓝领各品类贡献度合计 ≈ 100%",
+      "passed": true,
+      "detail": "1.00000000"
+    },
+    {
+      "name": "教育文化娱乐贡献 ≈ 23.1%",
+      "passed": true,
+      "detail": "0.230769"
+    },
+    {
+      "name": "交通通信贡献 ≈ 25.1%",
+      "passed": true,
+      "detail": "0.250769"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "check_type": "documentation_coverage",
+  "note": "只证明规则写入文档，不证明模型行为；行为测试需另做红队评估。",
+  "total": 8,
+  "passed": 8,
+  "checks": [
+    {
+      "rule": "同比/环比",
+      "keywords": [
+        "同比",
+        "环比"
+      ],
+      "hits": [
+        "同比",
+        "环比"
+      ],
+      "passed": true
+    },
+    {
+      "rule": "名义/实际",
+      "keywords": [
+        "名义",
+        "实际"
+      ],
+      "hits": [
+        "名义",
+        "实际"
+      ],
+      "passed": true
+    },
+    {
+      "rule": "占比/百分点",
+      "keywords": [
+        "占比",
+        "百分点"
+      ],
+      "hits": [
+        "占比",
+        "百分点"
+      ],
+      "passed": true
+    },
+    {
+      "rule": "总计/分项",
+      "keywords": [
+        "总计",
+        "分项"
+      ],
+      "hits": [
+        "总计",
+        "分项"
+      ],
+      "passed": true
+    },
+    {
+      "rule": "个人授信",
+      "keywords": [
+        "个人授信",
+        "授信决策"
+      ],
+      "hits": [
+        "个人授信",
+        "授信决策"
+      ],
+      "passed": true
+    },
+    {
+      "rule": "敏感属性",
+      "keywords": [
+        "敏感属性"
+      ],
+      "hits": [
+        "敏感属性"
+      ],
+      "passed": true
+    },
+    {
+      "rule": "过度借贷",
+      "keywords": [
+        "过度借贷",
+        "诱导"
+      ],
+      "hits": [
+        "过度借贷",
+        "诱导"
+      ],
+      "passed": true
+    },
+    {
+      "rule": "人工复核",
+      "keywords": [
+        "人工复核"
+      ],
+      "hits": [
+        "人工复核"
+      ],
+      "passed": true
+    }
+  ]
+}

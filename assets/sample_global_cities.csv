@@ -1,0 +1,49 @@
+﻿year,country,city,group,category,per_capita_expenditure,currency,price_basis,classification,data_level,sample_size,data_type,source,note,ppp_factor
+2024,Germany,Berlin,城市居民,Food and non-alcoholic beverages,2976,EUR,nominal_local,COICOP-8-proxy,city,1200,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,0.75
+2024,Germany,Berlin,城市居民,"Housing, water, electricity, gas",7440,EUR,nominal_local,COICOP-8-proxy,city,1200,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,0.75
+2024,Germany,Berlin,城市居民,Transport,3224,EUR,nominal_local,COICOP-8-proxy,city,1200,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,0.75
+2024,Germany,Berlin,城市居民,Communication,992,EUR,nominal_local,COICOP-8-proxy,city,1200,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,0.75
+2024,Germany,Berlin,城市居民,Education,1488,EUR,nominal_local,COICOP-8-proxy,city,1200,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,0.75
+2024,Germany,Berlin,城市居民,Health,2976,EUR,nominal_local,COICOP-8-proxy,city,1200,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,0.75
+2024,Germany,Berlin,城市居民,Recreation and culture,3224,EUR,nominal_local,COICOP-8-proxy,city,1200,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,0.75
+2024,Germany,Berlin,城市居民,Clothing and footwear,2480,EUR,nominal_local,COICOP-8-proxy,city,1200,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,0.75
+2025,Germany,Berlin,城市居民,Food and non-alcoholic beverages,3072,EUR,nominal_local,COICOP-8-proxy,city,1200,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,0.75
+2025,Germany,Berlin,城市居民,"Housing, water, electricity, gas",7680,EUR,nominal_local,COICOP-8-proxy,city,1200,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,0.75
+2025,Germany,Berlin,城市居民,Transport,3328,EUR,nominal_local,COICOP-8-proxy,city,1200,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,0.75
+2025,Germany,Berlin,城市居民,Communication,1024,EUR,nominal_local,COICOP-8-proxy,city,1200,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,0.75
+2025,Germany,Berlin,城市居民,Education,1536,EUR,nominal_local,COICOP-8-proxy,city,1200,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,0.75
+2025,Germany,Berlin,城市居民,Health,3072,EUR,nominal_local,COICOP-8-proxy,city,1200,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,0.75
+2025,Germany,Berlin,城市居民,Recreation and culture,3584,EUR,nominal_local,COICOP-8-proxy,city,1200,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,0.75
+2025,Germany,Berlin,城市居民,Clothing and footwear,2304,EUR,nominal_local,COICOP-8-proxy,city,1200,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,0.75
+2024,Singapore,Singapore,城市居民,Food and non-alcoholic beverages,5390,SGD,nominal_local,COICOP-8-proxy,city,1500,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,1.35
+2024,Singapore,Singapore,城市居民,"Housing, water, electricity, gas",10395,SGD,nominal_local,COICOP-8-proxy,city,1500,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,1.35
+2024,Singapore,Singapore,城市居民,Transport,4620,SGD,nominal_local,COICOP-8-proxy,city,1500,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,1.35
+2024,Singapore,Singapore,城市居民,Communication,1925,SGD,nominal_local,COICOP-8-proxy,city,1500,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,1.35
+2024,Singapore,Singapore,城市居民,Education,3850,SGD,nominal_local,COICOP-8-proxy,city,1500,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,1.35
+2024,Singapore,Singapore,城市居民,Health,3850,SGD,nominal_local,COICOP-8-proxy,city,1500,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,1.35
+2024,Singapore,Singapore,城市居民,Recreation and culture,4620,SGD,nominal_local,COICOP-8-proxy,city,1500,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,1.35
+2024,Singapore,Singapore,城市居民,Clothing and footwear,3850,SGD,nominal_local,COICOP-8-proxy,city,1500,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,1.35
+2025,Singapore,Singapore,城市居民,Food and non-alcoholic beverages,5600,SGD,nominal_local,COICOP-8-proxy,city,1500,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,1.35
+2025,Singapore,Singapore,城市居民,"Housing, water, electricity, gas",10800,SGD,nominal_local,COICOP-8-proxy,city,1500,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,1.35
+2025,Singapore,Singapore,城市居民,Transport,4800,SGD,nominal_local,COICOP-8-proxy,city,1500,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,1.35
+2025,Singapore,Singapore,城市居民,Communication,2000,SGD,nominal_local,COICOP-8-proxy,city,1500,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,1.35
+2025,Singapore,Singapore,城市居民,Education,4000,SGD,nominal_local,COICOP-8-proxy,city,1500,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,1.35
+2025,Singapore,Singapore,城市居民,Health,4400,SGD,nominal_local,COICOP-8-proxy,city,1500,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,1.35
+2025,Singapore,Singapore,城市居民,Recreation and culture,4800,SGD,nominal_local,COICOP-8-proxy,city,1500,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,1.35
+2025,Singapore,Singapore,城市居民,Clothing and footwear,3600,SGD,nominal_local,COICOP-8-proxy,city,1500,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,1.35
+2024,Brazil,São Paulo,城市居民,Food and non-alcoholic beverages,5600,BRL,nominal_local,COICOP-8-proxy,city,1000,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,2.6
+2024,Brazil,São Paulo,城市居民,"Housing, water, electricity, gas",7280,BRL,nominal_local,COICOP-8-proxy,city,1000,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,2.6
+2024,Brazil,São Paulo,城市居民,Transport,3920,BRL,nominal_local,COICOP-8-proxy,city,1000,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,2.6
+2024,Brazil,São Paulo,城市居民,Communication,1400,BRL,nominal_local,COICOP-8-proxy,city,1000,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,2.6
+2024,Brazil,São Paulo,城市居民,Education,2240,BRL,nominal_local,COICOP-8-proxy,city,1000,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,2.6
+2024,Brazil,São Paulo,城市居民,Health,3360,BRL,nominal_local,COICOP-8-proxy,city,1000,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,2.6
+2024,Brazil,São Paulo,城市居民,Recreation and culture,2240,BRL,nominal_local,COICOP-8-proxy,city,1000,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,2.6
+2024,Brazil,São Paulo,城市居民,Clothing and footwear,1960,BRL,nominal_local,COICOP-8-proxy,city,1000,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,2.6
+2025,Brazil,São Paulo,城市居民,Food and non-alcoholic beverages,5900,BRL,nominal_local,COICOP-8-proxy,city,1000,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,2.6
+2025,Brazil,São Paulo,城市居民,"Housing, water, electricity, gas",7670,BRL,nominal_local,COICOP-8-proxy,city,1000,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,2.6
+2025,Brazil,São Paulo,城市居民,Transport,4130,BRL,nominal_local,COICOP-8-proxy,city,1000,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,2.6
+2025,Brazil,São Paulo,城市居民,Communication,1475,BRL,nominal_local,COICOP-8-proxy,city,1000,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,2.6
+2025,Brazil,São Paulo,城市居民,Education,2655,BRL,nominal_local,COICOP-8-proxy,city,1000,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,2.6
+2025,Brazil,São Paulo,城市居民,Health,3540,BRL,nominal_local,COICOP-8-proxy,city,1000,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,2.6
+2025,Brazil,São Paulo,城市居民,Recreation and culture,2360,BRL,nominal_local,COICOP-8-proxy,city,1000,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,2.6
+2025,Brazil,São Paulo,城市居民,Clothing and footwear,1770,BRL,nominal_local,COICOP-8-proxy,city,1000,模拟,模拟数据（基于 OECD/World Bank 结构校准）,仅用于方法演示，不代表真实统计；PPP 因子为模拟值,2.6
